@@ -2,7 +2,7 @@
 
 ![Java CI](https://github.com/Sharique55/Java-Heap-Dump-Analysis-Toolkit/actions/workflows/java-build.yml/badge.svg)
 
-[![View on GitHub Pages](https://img.shields.io/badge/View-GitHub%20Pages-blue?logo=github)](https://sharique55.github.io/Ultimate-Java-Heap-Dump-Analysis-Toolkit/)
+[![View on GitHub Pages](https://img.shields.io/badge/View-GitHub%20Pages-blue?logo=github)](https://sharique55.github.io/Java-Heap-Dump-Analysis-Toolkit/)
 
 
 
