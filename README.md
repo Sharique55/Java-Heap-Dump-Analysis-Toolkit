@@ -26,7 +26,6 @@
 * [📤 Generating a Heap Dump](#-generating-a-heap-dump)
 * [🧪 Sample Java Code to Generate Heap Dump](#-sample-java-code-to-generate-heap-dump)
 * [📥 Analyzing Heap Dump with JProfiler](#-analyzing-heap-dump-with-jprofiler)
-
   * [🔢 Step-by-Step](#-step-by-step)
   * [🧭 Key Views to Explore](#-key-views-to-explore)
 * [🔎 Understanding Key Concepts](#-understanding-key-concepts)
