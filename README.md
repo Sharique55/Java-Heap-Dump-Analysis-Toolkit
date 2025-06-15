@@ -2,8 +2,8 @@
 
 ![Heap Dump Banner](./banner.png)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Sharique55/Ultimate-Java-Heap-Dump-Analysis-Toolkit?style=social)](https://github.com/Sharique55/Ultimate-Java-Heap-Dump-Analysis-Toolkit/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Sharique55/Ultimate-Java-Heap-Dump-Analysis-Toolkit?style=social)](https://github.com/Sharique55/Ultimate-Java-Heap-Dump-Analysis-Toolkit/network)
+[![GitHub Stars](https://img.shields.io/github/stars/Sharique55/Java-Heap-Dump-Analysis-Toolkit?style=social)](https://github.com/Sharique55/Java-Heap-Dump-Analysis-Toolkit/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Sharique55/Java-Heap-Dump-Analysis-Toolkit?style=social)](https://github.com/Sharique55/Java-Heap-Dump-Analysis-Toolkit/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Java](https://img.shields.io/badge/Language-Java-blue)](https://www.java.com)
 [![JProfiler](https://img.shields.io/badge/Tool-JProfiler-green)](https://www.ej-technologies.com/products/jprofiler/overview.html)
