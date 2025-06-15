@@ -36,26 +36,6 @@
 
 ---
 
-* [Introduction](#introduction)
-* [Tools You’ll Need](#tools-youll-need)
-* [Generating a Heap Dump](#generating-a-heap-dump)
-* [Sample Java Code to Generate Heap Dump](#sample-java-code-to-generate-heap-dump)
-* [Analyzing Heap Dump with JProfiler](#analyzing-heap-dump-with-jprofiler)
-  * [Step-by-Step](#step-by-step)
-  * [Key Views to Explore](#key-views-to-explore)
-* [Understanding Key Concepts](#understanding-key-concepts)
-* [Jargon Explained with Examples](#jargon-explained-with-examples)
-* [Retained Size vs Shallow Size](#retained-size-vs-shallow-size)
-* [Identifying Memory Leaks](#identifying-memory-leaks)
-* [References & Official Docs](#references--official-docs)
-* [Tags & Topics](#tags--topics)
-* [Social Preview Banner](#social-preview-banner)
-* [Contributing](#contributing)
-* [Spread the Word](#spread-the-word)
-* [Author](#author)
-
----
-
 ## 🔍 Introduction
 
 This repository is your **go-to guide for understanding Java heap dumps**, analyzing them using **JProfiler**, and diagnosing **memory leaks or performance bottlenecks**. Whether you're debugging a production crash or fine-tuning memory usage—this toolkit has you covered.
