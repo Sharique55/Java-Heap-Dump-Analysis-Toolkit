@@ -1,0 +1,27 @@
+name: Java Build CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Compile Sample Heap Dump Code
+        run: javac HeapDumpExample.java
+
+      - name: Run Basic Check
+        run: echo "✅ Java heap dump code compiles!"
