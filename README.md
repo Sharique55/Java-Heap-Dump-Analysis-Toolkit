@@ -35,7 +35,6 @@
 * [🚨 Identifying Memory Leaks](#-identifying-memory-leaks)
 * [🌐 References & Official Docs](#-references--official-docs)
 * [🏷️ Tags & Topics](#-tags--topics)
-* [🖼️ Social Preview Banner](#-social-preview-banner)
 * [🙌 Contributing](#-contributing)
 * [📢 Spread the Word](#-spread-the-word)
 * [💻 Author](#-author)
