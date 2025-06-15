@@ -1,5 +1,8 @@
 # 🔥 Ultimate Java Heap Dump Analysis Toolkit
 
+![Java CI](https://github.com/Sharique55/Java-Heap-Dump-Analysis-Toolkit/actions/workflows/java-build.yml/badge.svg)
+
+
 ![Heap Dump Banner](./banner.png)
 
 [![GitHub Stars](https://img.shields.io/github/stars/Sharique55/Java-Heap-Dump-Analysis-Toolkit?style=social)](https://github.com/Sharique55/Java-Heap-Dump-Analysis-Toolkit/stargazers)
